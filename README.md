@@ -1,4 +1,4 @@
-# my-projects(core-PHP)
+# my-projects
  # Healthcare Portal (Core PHP)
 
 A smart, all-in-one healthcare web platform that connects patients to the right care —
